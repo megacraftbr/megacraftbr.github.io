@@ -32,13 +32,31 @@
 
 	
 	
+<!-- START SOUND CODE V4.1b HTML5 -->
+<script type="text/javascript">
+
+// PLAYER VARIABLES
+
+var mp3snd = "MoogCity.mp3";
+var oggsnd = "MoogCity.ogg";
+
+document.write('<audio autoplay="autoplay">');
+document.write('<source src="'+mp3snd+'" type="audio/mpeg">');
+document.write('<source src="'+oggsnd+'" type="audio/ogg">');
+document.write('<!--[if lt IE 9]>');
+document.write('<bgsound src="'+mp3snd+'" loop="1">');
+document.write('<![endif]-->');
+document.write('</audio>');
+
+</script>
+<br>
+<!-- END SOUND CODE V4.1b -->
+
+	
+	
 	</head>
 <body>	
 
-	
-<audio src="MoogCity.ogg" controls autoplay loop>
-<p>Seu navegador não suporta o elemento audio </p>
-</audio>
 	
 <div class="snowflakes" aria-hidden="true">
   <div class="snowflake">
