@@ -13,38 +13,33 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://megacraftmc.com.br/equipe.html</loc>
+  <loc>https://megacraftmc.com.br/rules.html</loc>
   <lastmod>2020-09-26T12:55:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://megacraftmc.com.br/regras.html</loc>
+  <loc>https://megacraftmc.com.br/shop.html</loc>
   <lastmod>2020-09-26T12:55:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://megacraftmc.com.br/apoiadores.html</loc>
+  <loc>https://megacraftmc.com.br/vote.html</loc>
   <lastmod>2020-09-26T12:55:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://megacraftmc.com.br/loja.html</loc>
+  <loc>https://megacraftmc.com.br/donation.html</loc>
   <lastmod>2020-09-26T12:55:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://megacraftmc.com.br/votar.html</loc>
+  <loc>https://megacraftmc.com.br/colors.html</loc>
   <lastmod>2020-09-26T12:55:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://megacraftmc.com.br/suporte.html</loc>
+  <loc>https://megacraftmc.com.br/codes.html</loc>
   <lastmod>2020-09-26T12:55:46+00:00</lastmod>
   <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://megacraftmc.com.br/cores.html</loc>
-  <lastmod>2020-09-26T12:55:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>      
+</url>       
 </urlset>
